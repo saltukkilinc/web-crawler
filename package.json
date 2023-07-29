@@ -6,6 +6,10 @@
   "author": "saltukkilinc <112329706+saltukkilinc@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node main.js"
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
   }
 }
